@@ -11,9 +11,9 @@ I have been fascinated by astronomy and outer space since I was a child.  I am b
 
 ## 2. Notebook Structure
 
-  - https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/cleaning-notebook.ipynb Initial read-in of data and imputation of null values
-  - https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/EDA.ipynb Exploratory data analysis, outlier examinations, summary statistics
-  - https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/Clustering.ipynb Clustering with BIRCH, DBScan, and KMeans models of planetary data.  
+  - [Initial read-in of data and imputation of null values](https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/cleaning-notebook.ipynb)
+  - [ Exploratory data analysis, outlier examinations, summary statistics](https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/EDA.ipynb)
+  - [ Clustering with BIRCH, DBScan, and KMeans models of planetary data. ](https://github.com/sehyeager/exoplanet_clustering_gamma/blob/main/notebooks/Clustering.ipynb)
 
 ## 3. Data Collection
 
